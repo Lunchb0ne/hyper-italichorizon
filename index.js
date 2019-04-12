@@ -1,6 +1,6 @@
 'use strict';
 const foregroundColor   = '#eff0eb';
-const backgroundColor   = '#282a36';
+const backgroundColor   = '#1c1e26';
 const cursorAccentColor = '#6C6F93';
 const red               = '#E95678';
 const green             = '#29D398';
