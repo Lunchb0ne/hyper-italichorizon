@@ -1,6 +1,6 @@
 {
   "name": "hyper-italichorizon",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "index.js",
   "description": "A hyper theme based on a Visual Studio Code theme of the same name.",
   "license": "MIT",

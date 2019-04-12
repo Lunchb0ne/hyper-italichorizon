@@ -1,5 +1,5 @@
 <h1 align="center">
-Hyperhorizon
+Hyper-Horizon
 </h1>
 
 <h4 align="center">
@@ -34,8 +34,8 @@ $ hyper install hyper-italichorizon
 
 ## Extra
 
-To get the exact same look, install the [Dank Mono](https://Dank.sh) font as well as [oh-my-zsh](http://ohmyz.sh/) and set up [pure](https://github.com/sindresorhus/pure) as your zsh prompt.
+To get the exact same look, install the [Dank Mono](https://Dank.sh) font , [Ligature Support](https://github.com/tolbertam/hyper-font-ligatures) as well as [oh-my-zsh](http://ohmyz.sh/) and set up [pure](https://github.com/sindresorhus/pure) as your zsh prompt.
 
 ## Related
 
-- [horizon-theme-vscode](https://github.com/jolaleye/horizon-theme-vscode) - Visual Studio Code version
+- [horizon-theme-vscode](https://github.com/jolaleye/horizon-theme-vscode) - vscode version of the theme

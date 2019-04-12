@@ -17,6 +17,7 @@ const lightcyan         = '#59E1E3';
 
 
 exports.decorateConfig = config => Object.assign({}, config, {
+  fontWeightBold: 'italic',
 	backgroundColor,
 	foregroundColor,
 	borderColor: '#232530',
