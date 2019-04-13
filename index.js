@@ -1,29 +1,29 @@
-'use strict';
-const foregroundColor   = '#eff0eb';
-const backgroundColor   = '#1c1e26';
-const cursorAccentColor = '#6C6F93';
-const red               = '#E95678';
-const green             = '#29D398';
-const yellow            = '#FAB795';
-const blue              = '#26BBD9';
-const magenta           = '#EE64AC';
-const cyan              = '#59E1E3';
-const lightred          = '#E95678';
-const lightgreen        = '#29D398';
-const lightyellow       = '#FAB795';
-const lightblue         = '#26BBD9';
-const lightmagenta      = '#EE64AC';
-const lightcyan         = '#59E1E3';
+"use strict";
+const foregroundColor   = "#eff0eb";
+const backgroundColor   = "#1c1e26";
+const cursorAccentColor = "#6C6F93";
+const red               = "#E95678";
+const green             = "#29D398";
+const yellow            = "#FAB795";
+const blue              = "#26BBD9";
+const magenta           = "#EE64AC";
+const cyan              = "#59E1E3";
+const lightred          = "#E95678";
+const lightgreen        = "#29D398";
+const lightyellow       = "#FAB795";
+const lightblue         = "#26BBD9";
+const lightmagenta      = "#EE64AC";
+const lightcyan         = "#59E1E3";
 
 
 exports.decorateConfig = config => Object.assign({}, config, {
-  fontWeightBold: 'italic',
+  fontWeightBold: "italic",
 	backgroundColor,
 	foregroundColor,
-	borderColor: '#232530',
-	cursorColor: '#E95378',
+	borderColor: "#232530",
+	cursorColor: "#E95378",
 	cursorAccentColor,
-	selectionColor: 'rgba(233, 83, 120, 0.4)',
+	selectionColor: "rgba(233, 83, 120, 0.4)",
 	colors: {
 		black: backgroundColor,
 		red,
@@ -32,8 +32,8 @@ exports.decorateConfig = config => Object.assign({}, config, {
 		blue,
 		magenta,
 		cyan,
-		white: '#bbbbbb',
-		lightBlack: '#6C6F93',
+		white: "#bbbbbb",
+		lightBlack: "#6C6F93",
 		lightRed: lightred,
 		lightGreen: lightgreen,
 		lightYellow: lightyellow,

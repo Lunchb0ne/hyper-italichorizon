@@ -6,17 +6,15 @@ Hyper-Horizon
 A hyper theme based on a Visual Stuido Code theme of the same name.
 </h4>
 
-
 <div align="center">
   <img src="media/screen.png" width="100%" />
 </div>
 
-
 ## Contents
 
-- [Install](#install)
-- [Extra](#extra)
-- [Related](#related)
+-  [Install](#install)
+-  [Extra](#extra)
+-  [Related](#related)
 
 ## Install
 
@@ -38,4 +36,4 @@ To get the exact same look, install the [Dank Mono](https://Dank.sh) font , [Lig
 
 ## Related
 
-- [horizon-theme-vscode](https://github.com/jolaleye/horizon-theme-vscode) - vscode version of the theme
+-  [horizon-theme-vscode](https://github.com/jolaleye/horizon-theme-vscode) - vscode version of the theme
